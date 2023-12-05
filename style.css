@@ -1,0 +1,31 @@
+body{
+    background-color: violet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+#header{
+    
+    background-color: chartreuse;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 5px;
+}
+
+a{
+    color: #002057;
+    text-decoration: none;
+}
+
+.topo{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 5px;
+}
