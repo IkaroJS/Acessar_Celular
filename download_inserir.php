@@ -8,6 +8,7 @@
 <body>
     <div class="downloads">
         <input type="file" class="file" >
+        <input type="text"> <!-- Alteração feita na branch "main" -->
     </div>
 </body>
 </html>
