@@ -12,7 +12,7 @@
 <body>
     <!-- Inclusão do cabeçalho -->
     <?php include "cabecalho.php"?>
-    <h1>Ai para</h1>
+    
     <!--------------------------->
     
 </body>
